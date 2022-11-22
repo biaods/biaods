@@ -11,10 +11,6 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=biaods&show_icons=true&count_private=true&hide_border=true&title_color=FA8072&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bianca Oliveira" github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaods&layout=compact&hide_border=true&title_color=FA8072&text_color=ff91a4&bg_color=0d1117" />
-</div>
                                                                                                                                       
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=biaods&bg_color=0d1117&color=FA8072&line=FFDAB9&point=FFDAB9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
