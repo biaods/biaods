@@ -1,13 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=25&center=true&vcenter=true&width=1000&lines=Hello+✌️;My+name+is+Bianca+de+Oliveira+😄;I'm+23+years+old+🎂;I'm+from+Brazil+🇧🇷;I+Graduated+Systems+Development+👩‍💻;Be+Welcome+❣️)](https://git.io/typing-svg)
 
-##
-
-<div align="center">
- <a href="https://github.com/biaods">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=biaods&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaods&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### ⭐ - Main skills:
 
 <div style="display: inline_block"><br>
