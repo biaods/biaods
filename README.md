@@ -19,10 +19,10 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bia-Js" width="50" src="https://cdn-icons-png.flaticon.com/512/4248/4248341.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="javascript" width="50" src="https://cdn-icons-png.flaticon.com/512/4248/4248341.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Bia-HTML" width="55" src="https://cdn-icons-png.flaticon.com/512/5486/5486483.png">&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Bia-CSS" width="55" src="https://cdn-icons-png.flaticon.com/512/5486/5486473.png">&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Bia-Js" width="50" src="https://cdn-icons-png.flaticon.com/512/1322/1322053.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Bia-github" width="50" src="https://cdn-icons-png.flaticon.com/512/1322/1322053.png">&nbsp;&nbsp;&nbsp;
 </div>
 
 
@@ -35,10 +35,10 @@
  
 </div>
 <div style="justify-cont:space-evenly"><br>
-   <img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png">&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/4300/4300536.png">&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/2721/2721635.png">&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/2778/2778893.png">&nbsp;&nbsp;&nbsp;  
+   <img align="center" alt="Bia-react" width="55" src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png">&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Bia-typescript" width="55" src="https://cdn-icons-png.flaticon.com/512/4300/4300536.png">&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Bia-php" width="55" src="https://cdn-icons-png.flaticon.com/512/2721/2721635.png">&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="Bia-sql" width="55" src="https://cdn-icons-png.flaticon.com/512/2778/2778893.png">&nbsp;&nbsp;&nbsp;  
 </div>
 <br><br><br>
 
