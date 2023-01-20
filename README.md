@@ -30,7 +30,7 @@
 <br><br><br>
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/9195/9195184.png" width="50px"> <samp>Contact Me: </samp>
-<div div align="center"><br>
+<div div align="left"><br>
 <img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/2590/2590807.png">
 <samp><b>biancadeoliveirads@gmail.com</b></samp><br><br>
   
