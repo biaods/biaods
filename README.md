@@ -1,27 +1,47 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=25&center=true&vcenter=true&width=1000&lines=Hello+✌️;My+name+is+Bianca+de+Oliveira+😄;I'm+23+years+old+🎂;I'm+from+Brazil+🇧🇷;I+Graduated+Systems+Development+👩‍💻;Be+Welcome+❣️)](https://git.io/typing-svg)
+<hr>
+<h1>### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,<samp> I am Bianca!</samp> <img src="https://i.gifer.com/origin/fb/fbca6454f3e0c08aeb8f459db199d638_w200.gif" width="80px"></h1>
 
-### ⭐ - Main skills:
+<br>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/408/408159.png" width="25px"> <samp>About me:</samp>
+
+<p align=center><samp>I'm a front-end developer passionate about creating amazing user experiences through design and technology. I have experience in HTML, CSS and JavaScript, as well as familiarity with frameworks such as Bootstrap, React. My projects include responsive website and web application development. I'm always looking to learn new skills and trends to stay current in the industry.</p></samp>  
+ 
+<br>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/465/465267.png" width="25px"> <samp>Main skills: </samp>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bia-Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bia-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bia-CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bia-Js" width="50" src="https://cdn-icons-png.flaticon.com/512/4248/4248341.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Bia-HTML" width="55" src="https://cdn-icons-png.flaticon.com/512/5486/5486483.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Bia-CSS" width="55" src="https://cdn-icons-png.flaticon.com/512/5486/5486473.png">&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Bia-Js" width="50" src="https://cdn-icons-png.flaticon.com/512/1322/1322053.png">&nbsp;&nbsp;&nbsp;
 </div>
 <br><br>
 
-### ⭐ - Studying in this moment:
-<div style="display: inline_block"><br>
-<img align="center" alt="Bia-Ts" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img align="center" alt="Rafa-React" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+## <img src="https://cdn-icons-png.flaticon.com/512/6514/6514940.png" width="55px"> <samp>Currently Studying: </samp>
+<div style="justify-cont:space-evenly"><br>
+<img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png">&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/4300/4300536.png">&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/2721/2721635.png">&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/2778/2778893.png">&nbsp;&nbsp;&nbsp;
+  
+</div>
+<br><br><br>
+
+## <img src="https://cdn-icons-png.flaticon.com/512/9195/9195184.png" width="50px"> <samp>Contact Me: </samp>
+<div div align="center"><br>
+<img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/2590/2590807.png">
+<samp><b>biancadeoliveirads@gmail.com</b></samp><br><br>
+  
+<img align="center" alt="Bia-Js" width="50" src="https://cdn-icons-png.flaticon.com/512/2335/2335279.png">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<samp><b>biaods#0892</b></samp>
+  
+<a href="https://www.linkedin.com/in/biancaods/" target="_blank"><img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/2671/2671766.png"><samp>linkedin.com/in/biancaods/</samp> <br>
+
+<a href="https://www.instagram.com/bianca0ds/" target="_blank"><img align="center" alt="Bia-Js" width="55" src="https://cdn-icons-png.flaticon.com/512/4863/4863313.png">&ensp;<samp>instagram.com/bianca0ds/ </samp>
+
+  
 </div>
 <br><br>
-
-
-
-<div align="center"> 
-<a href="https://www.instagram.com/bianca0ds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:biancadeoliveirads@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/biancaods/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-
- <img align="right" alt="Bia-pic" height="150" style="border-radius:70px;" src="https://media.discordapp.net/attachments/971212056206389311/1046935716178964593/download20221101125459.png">
- </div>
+  
+<hr>
